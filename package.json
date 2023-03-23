@@ -1,0 +1,19 @@
+{
+    "name": "pvpsit",
+    "version": "0.0.1",
+    "main": "censor",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/20501a05g6/pvpsit.git"
+    },
+    "keywords": [
+        "pvpsit"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+   
+    
+    
+}
